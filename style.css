@@ -1,0 +1,13 @@
+/* body{
+    background-color: brown;
+    color: aqua;
+    margin: 0;
+}
+.container{
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+} */
